@@ -8,7 +8,7 @@ I'm Sudam Kumar Paul, a passionate Data Science student from India. This resume 
 
 ## Resume Link
 
-[Visit My Portfolio](https://github.com/Sudam23/Resume/blob/main/Resume.pdf)
+[Visit My Resume](https://github.com/Sudam23/Resume/blob/main/Resume.pdf)
 
 
 ## Sections
