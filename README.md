@@ -6,34 +6,22 @@ Welcome to my resume zone! 🚀
 
 I'm Sudam Kumar Paul, a passionate Data Science student from India. This resume showcases my projects, skills, and experiences.
 
-## Website Link
+## Resume Link
 
-[Visit My Portfolio](https://sudam23.github.io/My_Portfolio/)
+[Visit My Portfolio](https://github.com/Sudam23/Resume/blob/main/Resume.pdf)
 
-## Technologies Used
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-## Features
-
-- **Responsive Design:** Optimized for different screen sizes
-- **Interactive Animations:** Enhanced user experience with smooth animations
-- **Skills Section:** Detailed information about my technical skills
-- **Projects:** Showcase of my work with descriptions and images
-- **Education and Experience:** Highlights of my academic and professional journey
-- **Contact Form:** Easy way to get in touch with me
 
 ## Sections
 
 - **About Me**
-- **My Education**
-- **Skills I Have**
-- **My Projects**
-- **My Certificates**
+- **Education**
+- **Ongoing Projects**
+- **Completed Projects**
+- **Technical Skills and Interests**
+- **Key Courses Taken**
+- **Achievements**
 - **Experience**
-- **Connect with Me**
+- **Positions of Responsibility**
 
 ## Connect with Me
 
